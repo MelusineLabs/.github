@@ -1,1 +1,3 @@
-# .github
+# Melusine Labs
+
+Coming soon :)
